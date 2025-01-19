@@ -1,0 +1,9 @@
+
+*.db
+*.db-shm
+/.vs/coursera/FileContentIndex
+.vs/ProjectSettings.json
+.vs/coursera/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal
+.vs/coursera/CopilotIndices/17.12.38.29086/CodeChunks.db-wal
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
